@@ -1,0 +1,3 @@
+C:\Users\mrcla\source\repos\CrackMe\CrackMe\x64\Debug\CrackMe.Form1.resources
+C:\Users\mrcla\source\repos\CrackMe\CrackMe\x64\Debug\CrackMe.vcxproj.GenerateResource.cache
+C:\Users\mrcla\source\repos\CrackMe\CrackMe\x64\Debug\CrackMe.vcxproj.AssemblyReference.cache
